@@ -1,0 +1,16 @@
+C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\bin\Debug\Distribuidora_Chocolates.exe.config
+C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\bin\Debug\Distribuidora_Chocolates.exe
+C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\bin\Debug\Distribuidora_Chocolates.pdb
+C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\obj\Debug\Distribuidora_Chocolates.csproj.AssemblyReference.cache
+C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\obj\Debug\Distribuidora_Chocolates.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\obj\Debug\Distribuidora_Chocolates.FrmLogin.resources
+C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\obj\Debug\Distribuidora_Chocolates.Properties.Resources.resources
+C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\obj\Debug\Distribuidora_Chocolates.csproj.GenerateResource.cache
+C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\obj\Debug\Distribuidora_Chocolates.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\obj\Debug\Distribuidora_Chocolates.exe
+C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\obj\Debug\Distribuidora_Chocolates.pdb
+C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\bin\Debug\EntityFramework.dll
+C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\bin\Debug\EntityFramework.xml
+C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\obj\Debug\Distribuidora_Chocolates.csproj.CopyComplete
