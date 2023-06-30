@@ -25,7 +25,8 @@ namespace Distribuidora_Chocolates.Models
         [Required]
         public int CelularUs { get; set; }
 
-        ///integridad referencial
+        //integridad referencial
+        //Un usuario registra muchas ventas
         public List<Venta>Venta { get; set; }
     }
 }

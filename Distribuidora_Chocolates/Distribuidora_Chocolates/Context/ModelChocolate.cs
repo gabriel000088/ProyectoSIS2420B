@@ -1,3 +1,4 @@
+using Distribuidora_Chocolates.Models;
 using System;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Data.Entity;
@@ -12,7 +13,11 @@ namespace Distribuidora_Chocolates.Context
         {
         }
 
-
-        
+        //Mapear a la base de Datos
+        public virtual DbSet<Usuario> Usuario { get; set; }
+        public virtual DbSet<Cliente> Cliente { get; set; }
+        public virtual DbSet<Detalle> Detalle { get; set; }
+        public virtual DbSet<Producto> Producto { get; set; }
+        public virtual DbSet<Venta> Venta { get; set; }
     }
 }

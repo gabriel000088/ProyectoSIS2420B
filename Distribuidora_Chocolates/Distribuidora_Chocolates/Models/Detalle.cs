@@ -13,5 +13,12 @@ namespace Distribuidora_Chocolates.Models
         public int IdDetalle { get; set; }
         [Required]
         public double CostoTotal { get; set; }
+
+        //Clave foranea
+        //Muchas detalles tiene una venta
+        public Venta Venta { get; set; }
+
+        //Muchos detalles tiene un producto
+        public Producto Producto { get; set; }
     }
 }

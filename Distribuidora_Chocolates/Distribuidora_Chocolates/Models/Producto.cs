@@ -25,5 +25,9 @@ namespace Distribuidora_Chocolates.Models
         public double PrecioCompraProd { get; set; }
         [Required]
         public double PrecioVentaProd { get; set; }
+
+        //integridad referencial
+        //Un producto tiene muchas detalles
+        public List<Detalle> Detalle { get; set; }
     }
 }

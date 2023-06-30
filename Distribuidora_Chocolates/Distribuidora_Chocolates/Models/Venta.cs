@@ -15,5 +15,15 @@ namespace Distribuidora_Chocolates.Models
         public int NroVenta { get; set; }
         [Required]
         public DateTime fechaVenta { get; set; }
+
+        //Clave foranea
+        //Muchas ventas tiene un usuario
+        public Usuario Usuario { get; set;}
+        //Muchas ventas tiene un cliente
+        public Cliente Cliente { get; set; }
+
+        //integridad referencial
+        //Un venta genera muchas detalles
+        public List<Detalle> Detalle { get; set; }
     }
 }

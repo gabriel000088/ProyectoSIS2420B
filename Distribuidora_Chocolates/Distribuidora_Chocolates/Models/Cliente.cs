@@ -18,5 +18,9 @@ namespace Distribuidora_Chocolates.Models
         [Required]
         public int Ci_Cli { get; set; }
         public int CelularCli { get; set; }
+
+        //Integridad referencial
+        //Un cliente tiene muchas ventas
+        public List<Venta> Venta { get; set; }
     }
 }
