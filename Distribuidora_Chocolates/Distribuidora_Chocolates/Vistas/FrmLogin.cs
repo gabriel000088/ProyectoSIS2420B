@@ -1,4 +1,6 @@
 ﻿using Distribuidora_Chocolates.Context;
+using Distribuidora_Chocolates.Controladores;
+using Distribuidora_Chocolates.Vistas;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -21,16 +23,34 @@ namespace Distribuidora_Chocolates
         private void FrmLogin_Load(object sender, EventArgs e)
         {
             //Sirve para crear las clases a la BBDD
-            ModelChocolate db= new ModelChocolate();
+            /*ModelChocolate db= new ModelChocolate();
             var Cliente = db.Cliente.ToList();
             var Detalle = db.Detalle.ToList();
             var Producto = db.Producto.ToList();
             var usuarios = db.Usuario.ToList();
-            var Venta = db.Venta.ToList();
+            var Venta = db.Venta.ToList();*/
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
+            string usuario = Ing_cuenta.Text;
+            string password = Ing_password.Text;
+
+            UsuarioController usuarioController = new UsuarioController();
+            bool isLogin = usuarioController.Login(usuario, password);
+            if(isLogin == true)
+            {
+                //pantalla menu principal
+                FrmMenuPrincipal frmMenuPrincipal = new FrmMenuPrincipal();
+                frmMenuPrincipal.Show();
+            }
+            else
+            {
+                MessageBox.Show("Usuario o Password incorrecs",
+                    "Distribuidora",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Error);
+            }
 
         }
 

@@ -13,7 +13,17 @@ namespace Distribuidora_Chocolates.Controladores
         //CRUD Y LOGIN
         ModelChocolate _context = new ModelChocolate();
         public bool Login(string Usuario, string password)
-
-            var UsuarioLogin = _context.Usuario.Where(x => x.NombreUs == Usuario && x.Password == password).SingleOrDefault();
+        {
+            var UsuarioLogin = _context.Usuario.Where(x => x.NombreUs == Usuario
+                                                        && x.Password == password).SingleOrDefault();
+            if(UsuarioLogin != null)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        } 
     }
 }
