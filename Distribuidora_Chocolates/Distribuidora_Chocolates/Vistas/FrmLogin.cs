@@ -41,12 +41,12 @@ namespace Distribuidora_Chocolates
             if(isLogin == true)
             {
                 //pantalla menu principal
-                FrmMenuPrincipal frmMenuPrincipal = new FrmMenuPrincipal();
+                FrmMenuPrincipal frmMenuPrincipal = new FrmMenuPrincipal(usuario);
                 frmMenuPrincipal.Show();
             }
             else
             {
-                MessageBox.Show("Usuario o Password incorrecs",
+                MessageBox.Show("Usuario o Password incorrectos",
                     "Distribuidora",
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Error);

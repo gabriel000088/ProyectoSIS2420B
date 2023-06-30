@@ -115,5 +115,20 @@
   <ItemGroup>
     <None Include="Images\btn_ingresar.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\usuarios.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\ventas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\clientes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\reporte.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\productos.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
