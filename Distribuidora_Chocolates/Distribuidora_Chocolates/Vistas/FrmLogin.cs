@@ -58,5 +58,10 @@ namespace Distribuidora_Chocolates
         {
 
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

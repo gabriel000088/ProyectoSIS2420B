@@ -14,3 +14,4 @@ C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS
 C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\bin\Debug\EntityFramework.xml
 C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\obj\Debug\Distribuidora_Chocolates.csproj.CopyComplete
+C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\obj\Debug\Distribuidora_Chocolates.Vistas.FrmMenuPrincipal.resources
