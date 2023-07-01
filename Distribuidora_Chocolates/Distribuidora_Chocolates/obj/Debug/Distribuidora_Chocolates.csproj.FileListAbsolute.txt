@@ -15,3 +15,20 @@ C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS
 C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\obj\Debug\Distribuidora_Chocolates.csproj.CopyComplete
 C:\Users\usuario\OneDrive\Escritorio\semestre1-2023\SISTEMAS\PROYECTOS-PRACTICAS\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\obj\Debug\Distribuidora_Chocolates.Vistas.FrmMenuPrincipal.resources
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\bin\Debug\Distribuidora_Chocolates.exe.config
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\bin\Debug\Distribuidora_Chocolates.exe
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\bin\Debug\Distribuidora_Chocolates.pdb
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\bin\Debug\EntityFramework.dll
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\bin\Debug\EntityFramework.xml
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\obj\Debug\Distribuidora_Chocolates.csproj.AssemblyReference.cache
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\obj\Debug\Distribuidora_Chocolates.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\obj\Debug\Distribuidora_Chocolates.FrmLogin.resources
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\obj\Debug\Distribuidora_Chocolates.Properties.Resources.resources
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\obj\Debug\Distribuidora_Chocolates.Vistas.FrmMenuPrincipal.resources
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\obj\Debug\Distribuidora_Chocolates.csproj.GenerateResource.cache
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\obj\Debug\Distribuidora_Chocolates.csproj.CoreCompileInputs.cache
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\obj\Debug\Distribuidora_Chocolates.csproj.CopyComplete
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\obj\Debug\Distribuidora_Chocolates.exe
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Proyecto\Distribuidora_Chocolates\Distribuidora_Chocolates\obj\Debug\Distribuidora_Chocolates.pdb
