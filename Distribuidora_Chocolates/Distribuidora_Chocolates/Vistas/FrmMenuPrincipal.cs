@@ -29,7 +29,7 @@ namespace Distribuidora_Chocolates.Vistas
 
         private void gestionarUsuariosToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+       
         }
 
         private void gestionarClientesToolStripMenuItem_Click(object sender, EventArgs e)
