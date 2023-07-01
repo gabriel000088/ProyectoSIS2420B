@@ -1,0 +1,25 @@
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Productos\Productos\bin\Debug\Productos.exe.config
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Productos\Productos\bin\Debug\Productos.exe
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Productos\Productos\bin\Debug\Productos.pdb
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Productos\Productos\obj\Debug\Productos.csproj.AssemblyReference.cache
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Productos\Productos\obj\Debug\Productos.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Productos\Productos\obj\Debug\Productos.frm_gstproducto.resources
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Productos\Productos\obj\Debug\Productos.Properties.Resources.resources
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Productos\Productos\obj\Debug\Productos.csproj.GenerateResource.cache
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Productos\Productos\obj\Debug\Productos.csproj.CoreCompileInputs.cache
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Productos\Productos\obj\Debug\Productos.exe
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Productos\Productos\obj\Debug\Productos.pdb
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Productos\Productos\obj\Debug\Productos.frm_login.resources
+C:\Users\MSI GAMER\Desktop\Pineapple\Sis 2420\Productos\Productos\obj\Debug\Productos.Form3.resources
+E:\VisualCode\Productos\Productos\bin\Debug\Productos.exe.config
+E:\VisualCode\Productos\Productos\bin\Debug\Productos.exe
+E:\VisualCode\Productos\Productos\bin\Debug\Productos.pdb
+E:\VisualCode\Productos\Productos\obj\Debug\Productos.csproj.AssemblyReference.cache
+E:\VisualCode\Productos\Productos\obj\Debug\Productos.csproj.SuggestedBindingRedirects.cache
+E:\VisualCode\Productos\Productos\obj\Debug\Productos.frm_gstproducto.resources
+E:\VisualCode\Productos\Productos\obj\Debug\Productos.frm_gestcliente.resources
+E:\VisualCode\Productos\Productos\obj\Debug\Productos.Properties.Resources.resources
+E:\VisualCode\Productos\Productos\obj\Debug\Productos.csproj.GenerateResource.cache
+E:\VisualCode\Productos\Productos\obj\Debug\Productos.csproj.CoreCompileInputs.cache
+E:\VisualCode\Productos\Productos\obj\Debug\Productos.exe
+E:\VisualCode\Productos\Productos\obj\Debug\Productos.pdb
